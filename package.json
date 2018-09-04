@@ -1,0 +1,8 @@
+{
+  "name": "bcoin-socket-test",
+  "version": "0.0.1",
+  "description": "bcoin bsock test",
+  "dependencies": {
+    "bsock": "^0.1.2"
+  }
+}
